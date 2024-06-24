@@ -1,6 +1,6 @@
 {
   "name": "atatus-winston",
-  "description": "Winston transport wrapper for atatus",
+  "description": "Winston transport wrapper for Atatus",
   "version": "1.0.0",
   "repository": {
     "type": "git",
